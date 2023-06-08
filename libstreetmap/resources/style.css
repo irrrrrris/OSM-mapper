@@ -1,0 +1,38 @@
+/* Morandi Colour Palette */
+/*:root {
+    --background:#F8F8F8;
+    --text:#161D15;
+    --accent:#B3CAD8;
+    --highlight_background:#97A5C0;
+    --highlight_text: #F8F8F8;
+}*/
+
+/* Style Classes */
+.buttons {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 100;
+    font-size: 16px;
+    color: #2d3142;
+}
+
+.buttons:hover {
+    color: #4f5d75;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 24px;
+    color: #4f5d75;
+}
+
+.status_bar {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #2d3142;
+    background-color: #F8F8F8;
+    border-radius: 5px;
+    border-color: #F8F8F8;
+    border: 4px;
+}
